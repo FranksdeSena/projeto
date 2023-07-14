@@ -10,10 +10,10 @@ function toggleMode() {
   // substituir a imagem
   if(html.classList.contains("light")) {
     // se tiver light mode, adicionar a imagem
-    img.setAttribute("src", "assets/foto.svg")
+    img.setAttribute("src", "assets/midia-social.jpg")
   } else {
    // se tiver sem light mode, manter a imagem normal
-   img.setAttribute("src", "assets/foto.svg")
+   img.setAttribute("src", "assets/midia-social.jpg")
   }
 
 
